@@ -1,1 +1,1 @@
-# Retail-Sales-Prediction-Regression-projrect
+# Retail-Sales-Prediction-Regression-project
